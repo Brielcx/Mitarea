@@ -1,0 +1,29 @@
+
+.container {
+    display:block;
+    font-size: 16px;
+    font-weight: bold;
+    width: 42%;
+    margin-left: 30%;
+}
+h2 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+  }
+
+a:hover {
+    border: 2px solid black;
+    border-radius: 10%;
+}
+.img {
+    border-radius: 50%;
+    width: 200px;
+    height: 220px;
+    border: 2px solid black;
+    margin-left: 30%;
+}
